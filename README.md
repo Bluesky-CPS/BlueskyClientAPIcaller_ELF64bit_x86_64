@@ -6,6 +6,8 @@ BlueskyClientAPIcall_ELF64bit_x86_64
 
   ```shell 
    $> sudo cp SKYBLUECLIENT /usr/bin/.
+   
+   $> sudo chmod 777 /usr/bin/SKYBLUECLIENT
 
    $> edIP="Your RaspberryPI IP address."
 
