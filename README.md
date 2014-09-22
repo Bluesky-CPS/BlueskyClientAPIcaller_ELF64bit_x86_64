@@ -1,6 +1,6 @@
 BlueskyClientAPIcall_ELF64bit_x86_64
 ====================================
- Here is a client API caller(Demo version 1) of Blue-sky server binary execution for x86_64 machines. You can clone it and copy to executionable directory. 
+ Here is a client API caller(Demo version 1) of Blue-sky server binary execution for x86_64 machines. You can clone it and copy to executionable directory.  (Cuation: It is not support for Private API now.)
 
  **For example (Linux):**
 
